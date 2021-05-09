@@ -1,1 +1,2 @@
 # Fifa-Analysis
+FIFA is one of the most popular football simulation video games of all times. I am sure that not only me but most of the people (I guess the majority would be males) probably played this game once in their life. Especially if you are a football fan, then you played this game not only once. I, as a football fan, have played FIFA’s series for a long period of time, especially during my school years, and never got bored. :)
